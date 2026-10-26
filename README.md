@@ -1,4 +1,4 @@
-![Header](https://github.com/fxtortic/fxtortic/blob/main/assets/mechagenda.jpeg)
+![Header](https://github.com/fxtortic/fxtortic/blob/main/assets/mechagenda.jpeg?raw=true)
 
 ##  👨‍💻 About me
 I'm Denys, a developer from Ukraine. I enjoy exploring new features and tools, working on projects, and learning something new.
